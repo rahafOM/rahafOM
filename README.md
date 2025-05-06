@@ -16,12 +16,12 @@
 ---
 🔗 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/YOUR_USERNAME_HERE](https://www.linkedin.com/in/rahaf-melhem-a69035363/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/YOUR_USERNAME_HERE](https://www.linkedin.com/in/rahaf-melhem))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahfosama234@gmail.com)
 
 💻 My Coding Profiles:
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/YOUR_USERNAME_HERE)  
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/YOUR_USERNAME_HERE)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)]([https://leetcode.com/YOUR_USERNAME_HERE](https://leetcode.com/u/rahafom/))  
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)]([https://codeforces.com/profile/YOUR_USERNAME_HERE](https://codeforces.com/profile/rahaf.o.m3))
 
 > ✨ This is a special repository because its `README.md` appears on my GitHub profile. Thanks for stopping by — let's build something amazing together!
