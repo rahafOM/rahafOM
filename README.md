@@ -24,4 +24,13 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/rahafom/)  
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/rahaf.o.m3)
 
+📊 GitHub Stats:
+
+![Rahaf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahafOM&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahafOM&layout=compact&theme=tokyonight)
+
+🔥 GitHub Streak:
+[![GitHub Streak](https://streak-stats.demolab.com?user=rahafOM&theme=tokyonight)](https://git.io/streak-stats)
+
 > ✨ This is a special repository because its `README.md` appears on my GitHub profile. Thanks for stopping by — let's build something amazing together!
