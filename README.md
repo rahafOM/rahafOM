@@ -34,3 +34,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rahafOM&theme=tokyonight)](https://git.io/streak-stats)
 
+![Profile views](https://komarev.com/ghpvc/?username=rahafom&color=blue)
+
+
