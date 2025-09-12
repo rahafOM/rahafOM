@@ -29,18 +29,19 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-005571?style=for-the-badge&logo=plotly&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/-?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
-![CSS3](https://img.shields.io/badge/-?style=for-the-badge&logo=css3&logoColor=white&color=1572B6)
-![JavaScript](https://img.shields.io/badge/-?style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E)
-![C++](https://img.shields.io/badge/-?style=for-the-badge&logo=cplusplus&logoColor=white&color=00599C)
-![Java](https://img.shields.io/badge/-?style=for-the-badge&logo=openjdk&logoColor=white&color=007396)
-![Python](https://img.shields.io/badge/-?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
-![SQL](https://img.shields.io/badge/-?style=for-the-badge&logo=database&logoColor=white&color=4479A1)
-![Jupyter](https://img.shields.io/badge/-?style=for-the-badge&logo=jupyter&logoColor=white&color=F37626)
-![Pandas](https://img.shields.io/badge/-?style=for-the-badge&logo=pandas&logoColor=white&color=150458)
-![NumPy](https://img.shields.io/badge/-?style=for-the-badge&logo=numpy&logoColor=white&color=013243)
-![Matplotlib](https://img.shields.io/badge/-?style=for-the-badge&logo=plotly&logoColor=white&color=005571)
-
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="sql" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="50" height="50"/>
+</p>
 🔗 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahaf-melhem)
