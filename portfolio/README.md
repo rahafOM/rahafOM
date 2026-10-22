@@ -1,5 +1,7 @@
 # Rahaf Melhem — Portfolio
 
+**Live website: [https://rahafom.github.io/rahafOM/portfolio/](https://rahafom.github.io/rahafOM/portfolio/)**
+
 A responsive English/Arabic portfolio for Rahaf Melhem, a front-end developer and Computer Systems Engineering student at Palestine Technical University – Kadoorie.
 
 ## Features
@@ -34,7 +36,7 @@ Then visit http://localhost:8000.
 
 ## GitHub Pages
 
-This is a plain static site compatible with GitHub Pages. In a dedicated repository, enable **Settings → Pages → Deploy from a branch**, select the default branch and **/(root)**. If placed in another repository's `portfolio/` folder, enable Pages on that repository and append `/portfolio/` to the published site URL.
+GitHub Pages is enabled for `rahafOM/rahafOM` from the `main` branch and the repository root. The root `index.html` redirects to `portfolio/`. Changes pushed to `main` are deployed automatically.
 
 ## Updating
 
