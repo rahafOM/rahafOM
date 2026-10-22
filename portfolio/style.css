@@ -8,3 +8,38 @@
 @media print{.header,.hero-art,.filters,.controls,.contact,.footer,.skip,.tech-strip{display:none}.wrap{width:100%}.hero{display:block;min-height:0}.section,.about-section{padding:20px 0}body{background:white;color:black}.project-art{height:140px}.projects{gap:20px}.project{break-inside:avoid}}
 
 .actions .button>span:last-child{display:none}.contact h2>span{display:none}.strip-inner b{width:20px}.more-projects>span:last-child{display:none}.project-number{font-style:normal}.code-body{font-size:13px}
+
+/* Keep artwork and its captions in separate layout tracks. */
+.hero-copy,.hero-art,.project,.project-body,.about-grid>div{min-width:0}
+.hero{grid-template-columns:minmax(0,1.05fr) minmax(0,1fr)}
+.hero-art{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);align-content:center;align-items:center;gap:24px 16px;height:auto;min-height:470px;padding:26px 12px;isolation:isolate}
+.art-caption{position:static;grid-column:1/-1;margin:0 0 6px;text-align:center;z-index:1}
+.browser-card{grid-column:1/-1;justify-self:center;width:calc(100% - 20px);max-width:400px;transform:rotate(-3deg)}
+.browser-top span{margin-left:12px;overflow-wrap:anywhere}
+.orbit{z-index:-1;max-width:100%;left:50%;top:50%;transform:translate(-50%,-50%);pointer-events:none}
+.floating-note{position:static;right:auto;bottom:auto;justify-self:stretch;align-self:center;padding:15px 16px;font-size:18px;transform:rotate(3deg);margin:0}
+.skill-sticker{position:static;left:auto;bottom:auto;justify-self:start;padding:10px 13px;transform:none;font-size:12px;line-height:1.7}
+.skill-sticker span{font-size:10px;margin:0}
+h1 em{display:inline-block;max-width:100%}
+.project-art{padding:48px 24px 42px;min-height:310px;height:auto}
+.art-label{top:18px;left:22px;right:22px;line-height:1.5}
+.summa-art{display:grid;grid-template-rows:auto 1fr;gap:24px;min-height:330px}
+.summa-title{position:static;font-size:clamp(42px,5vw,62px);line-height:1.1;z-index:1}
+.summa-title span{line-height:1.7;margin-top:10px;letter-spacing:1px}
+.summa-books{position:relative;bottom:auto;right:auto;justify-self:end;min-height:110px;padding-right:16px;align-self:end}
+.summa-books span{height:72px}.summa-books span:nth-child(2){height:100px}.summa-books span:nth-child(3){height:82px}
+.travel-art{display:flex;flex-direction:column;justify-content:space-between;gap:28px;min-height:330px}
+.travel-word{position:relative;top:auto;left:auto;font-size:96px;margin:5px 0 0 14px;z-index:1}
+.travel-word span{line-height:1.6}
+.travel-ticket{position:relative;bottom:auto;left:auto;width:88%;align-self:center;transform:rotate(-2deg);line-height:1.6;z-index:1}
+.travel-orbit{z-index:0;pointer-events:none}
+.dafter-art{min-height:330px}
+.invoice-art{transform:rotate(4deg);flex-shrink:0}
+.project-top{flex-wrap:wrap;gap:4px 12px}
+.profile-mini img{flex:0 0 56px;object-fit:cover}
+.profile-mini>div{min-width:0}.signature{flex-shrink:0}
+.email{overflow-wrap:anywhere;max-width:100%}
+@media(max-width:1100px){.hero{gap:35px}h1{font-size:clamp(45px,5.1vw,65px);letter-spacing:-2.5px}.hero-art{padding-inline:0}.code-body{font-size:11px;padding:24px 18px}.floating-note{font-size:16px}.browser-top span{font-size:8px}.about-grid{gap:40px}}
+@media(max-width:950px){.hero{grid-template-columns:1fr;padding-top:30px;gap:30px}.hero-copy{max-width:650px}.hero-art{max-width:520px;width:100%;margin:0 auto;min-height:0;padding-block:20px}.browser-card{max-width:420px}.hero h1{font-size:clamp(48px,7vw,64px)}.strip-inner{flex-wrap:wrap;padding-block:20px;gap:15px}.strip-inner>div{flex-wrap:wrap}.about-grid{gap:36px}.journey{gap:40px}}
+@media(max-width:760px){.header{height:auto;min-height:100px;display:grid;grid-template-columns:1fr auto;gap:6px 14px;padding-block:14px}.header .brand{grid-column:1;grid-row:1}.controls{grid-column:2;grid-row:1}.header nav{grid-column:1/-1;grid-row:2;justify-content:center;gap:30px;font-size:12px;padding-block:6px}.hero{grid-template-columns:1fr}.hero-art{max-width:430px;gap:22px 14px;margin:0 auto;padding:20px 4px}.hero h1{font-size:clamp(40px,10.5vw,57px);letter-spacing:-2px}.browser-card{width:calc(100% - 16px)}.code-body{font-size:12px;padding:24px 20px}.floating-note{font-size:16px;padding:13px}.skill-sticker{padding:9px 11px}.skill-sticker span{font-size:9px}.project-art{padding:52px 24px 42px;min-height:320px}.summa-art{gap:26px}.summa-title{font-size:53px}.project-footer{flex-wrap:wrap;row-gap:14px}.learning-path{gap:12px}.learning-path i{width:35px}.about-grid{grid-template-columns:1fr}.profile-mini{flex-wrap:wrap}.signature{margin-inline-start:auto}.journey{grid-template-columns:1fr}.contact-bottom{gap:26px}[dir=rtl] .hero h1{font-size:clamp(34px,9vw,43px);line-height:1.6}[dir=rtl] .hero-art{direction:ltr}}
+@media(max-width:380px){.hero-art{gap:20px 12px}.code-body{font-size:11px;padding:22px 16px}.browser-top{padding:12px}.browser-top span{font-size:7px;margin-left:8px}.floating-note{font-size:14px;padding:10px}.skill-sticker span{font-size:8px}.orbit{width:270px;height:270px}.orbit-two{width:225px;height:225px}.summa-title{font-size:45px}.summa-title span{font-size:9px}.travel-ticket{width:100%;padding-inline:15px}.learning-path{gap:10px}.learning-path i{width:23px}.header nav{gap:23px}.project h3{font-size:20px}}
