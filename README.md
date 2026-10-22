@@ -1,5 +1,7 @@
 👋 Hi there! I'm Rahaf 
 
+🌐 **[Visit my portfolio](https://rahafom.github.io/rahafOM/portfolio/)**
+
 💻 A passionate developer who loves learning, building, and sharing!
 
 🚀 I'm interested in: Web development, user interfaces, and creative coding challenges.
